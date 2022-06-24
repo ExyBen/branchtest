@@ -18,6 +18,7 @@ function App() {
           Learn React
         </a>
         <button>MON BOUTON</button>
+        <p>Mon paragraphe </p>
       </header>
     </div>
   );
