@@ -9,6 +9,12 @@ function App() {
         <p>
           AIKOZ
         </p>
+        <p>
+          AIKOZ
+        </p>
+        <p>
+          AIKOZ
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
